@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on open-source projects and harden my back-end skils
 - 📫 Reach me in githubRangel@protonmail.com
 
-<img src="./https://i.redd.it/u0p3zby0qr601.gif" alt="My Project GIF" width="500" height="600">
+<img src="./https://i.redd.it/u0p3zby0qr601.gif" alt="My Project GIF">
 
 <!---
 M4the0/M4the0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
